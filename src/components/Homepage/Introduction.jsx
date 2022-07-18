@@ -73,7 +73,7 @@ const Introduction = () => {
           </Button>
         </ButtonContainer>
       </ContentsContainer>
-      <img src="images/graphics.svg"></img>
+      <img alt="graphics" src="images/graphics.svg"></img>
     </IntroductionContainer>
   );
 };
